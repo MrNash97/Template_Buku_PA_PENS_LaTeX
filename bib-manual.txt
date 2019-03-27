@@ -1,0 +1,306 @@
+\begin{thebibliography}{}
+
+\bibitem[\_\_\_\_\_\_,, 2018]{web1}
+\_\_\_\_\_\_, (2018).
+\newblock Common tests for heart failure.
+\newblock \textit{\url{http://www.heart.org/HEARTORG/
+Conditions/HeartFailure/DiagnosingHeartFailure/Common-Tests-for-Heart-
+Failure_UCM_306334_Article.jsp}}, diakses tanggal 6 Juni 2018.
+
+\bibitem[Allen, 2007]{Allen2007}
+Allen, J. (2007).
+\newblock Photoplethysmography and its application in clinical physiological
+measurement.
+\newblock {\em Physiological Measurement}, volume 28(3), halaman R1--R39.
+
+\bibitem[Anderson and Parrish, 1981]{ANDERSON1981}
+Anderson, R.~R. and Parrish, J.~A. (1981).
+\newblock The optics of human skin.
+\newblock {\em Journal of Investigative Dermatology}, volume 77(1), halaman 13 -- 19.
+
+\bibitem[Ash et~al., 2017]{Ash2017}
+Ash, C., Dubec, M., Donne, K., and Bashford, T. (2017).
+\newblock Effect of wavelength and beam width on penetration in light-tissue
+interaction using computational methods.
+\newblock {\em Lasers in Medical Science}, volume 32(8), halaman 1909--1918.
+
+\bibitem[Burt and Adelson, 1983]{burt1983}
+Burt, P. and Adelson, E. (1983).
+\newblock The laplacian pyramid as a compact image code.
+\newblock {\em IEEE Transactions on Communications}, volume 31(4), halaman 532--540.
+
+\bibitem[Charlton et~al., 2016]{charlton2016}
+Charlton, P.~H., Bonnici, T., Tarassenko, L., Clifton, D.~A., Beale, R., and
+Watkinson, P.~J. (2016).
+\newblock An assessment of algorithms to estimate respiratory rate from the
+electrocardiogram and photoplethysmogram.
+\newblock {\em Physiological Measurement}, volume 37(4), halaman 610--626.
+
+\bibitem[Cretikos et~al., 2007]{cretikos2007}
+Cretikos, M., Chen, J., Hillman, K., Bellomo, R., Finfer, S., Flabouris, A.,
+Investigators, M.~S., et~al. (2007).
+\newblock The objective medical emergency team activation criteria: a
+case--control study.
+\newblock {\em Resuscitation}, volume 73(1), halaman 62--72.
+
+\bibitem[Crowe and Damianou, 1992]{Crowe1992}
+Crowe, J.~A. and Damianou, D. (1992).
+\newblock The wavelength dependence of the photoplethysmogram and its
+implication to pulse oximetry.
+\newblock In {\em 1992 14th Annual International Conference of the IEEE
+Engineering in Medicine and Biology Society}, volume~6, halaman 2423--2424.
+
+\bibitem[de~Haan and Jeanne, 2013]{deHaan2013}
+de~Haan, G. and Jeanne, V. (2013).
+\newblock Robust pulse rate from chrominance-based rppg.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, volume 60(10), halaman 2878--2886.
+
+\bibitem[Department of Emergency Medicine., 2000]{web3}
+Department of Emergency Medicine. (2000).
+\newblock Analysis and interpretation of the electrocardiogram.
+\newblock
+\textit{\url{https://meds.queensu.ca/central/assets/modules/ts-ecg/the_12_lead_ecg.html}},
+diakses tanggal 9 Juni 2018.
+
+\bibitem[Estepp et~al., 2014]{Estepp2014}
+Estepp, J.~R., Blackford, E.~B., and Meier, C.~M. (2014).
+\newblock Recovering pulse rate during motion artifact with a multi-imager
+array for non-contact imaging photoplethysmography.
+\newblock In {\em Proceedings. 2014 IEEE International Conference on Systems, Man, and
+Cybernetics (SMC)}, halaman 1462--1469.
+
+\bibitem[Fieselmann et~al., 1993]{fieselmann1993}
+Fieselmann, J.~F., Hendryx, M.~S., Helms, C.~M., and Wakefield, D.~S. (1993).
+\newblock Respiratory rate predicts cardiopulmonary arrest for internal
+medicine inpatients.
+\newblock {\em Journal of general internal medicine}, volume 8(7), halaman 354--360.
+
+\bibitem[Ganong et~al., 2012]{Ganong}
+Ganong, W.~F., Barman, S.~M., Barrett, K.~E., Brooks, H.~L., and Boitano.
+(2012).
+\newblock {\em {S. Ganong's} {review} of {medical} {physiology} (24th ed.)}.
+\newblock McGraw Hill Medical, New York.
+
+\bibitem[Hillman et~al., 2005]{hillman2005}
+Hillman, K., Chen, J., Cretikos, M., Bellomo, R., Brown, D., Doig, G., Finfer,
+S., Flabouris, A., Investigators, M.~S., et~al. (2005).
+\newblock Introduction of the medical emergency team (met) system: a
+cluster-randomised controlled trial.
+\newblock {\em Lancet}, volume 365, issue 9477, halaman 2091--2097.
+
+\bibitem[Jonathan and Leahy, 2011]{Enock}
+Jonathan, E. and Leahy, M.~J. (2011).
+\newblock Cellular phone-based photoplethysmographic imaging.
+\newblock {\em Journal of Biophotonics}, volume 4(5), halaman 293--296.
+
+\bibitem[Kamal et~al., 1989]{Kamal1989}
+Kamal, A., Harness, J., Irving, G., and Mearns, A. (1989).
+\newblock Skin photoplethysmography — a review.
+\newblock {\em Computer Methods and Programs in Biomedicine}, volume 28(4), halaman 257 -- 269.
+
+\bibitem[Kong et~al., 2013]{kong2013}
+Kong, L., Zhao, Y., Dong, L., Jian, Y., Jin, X., Li, B., Feng, Y., Liu, M.,
+Liu, X., and Wu, H. (2013).
+\newblock Non-contact detection of oxygen saturation based on visible light
+imaging device using ambient light.
+\newblock {\em Optics express}, volume 21(15), halaman 17464--17471.
+
+\bibitem[Kristj{\'a}nsd{\'o}ttir et~al., 2004]{kristjansdottir2004}
+Kristj{\'a}nsd{\'o}ttir, {\'A}., Ragnarsd{\'o}ttir, M., Hannesson, P., Beck,
+H.~J., and Torfason, B. (2004).
+\newblock Respiratory movements are altered three months and one year following
+cardiac surgery.
+\newblock {\em Scandinavian Cardiovascular Journal}, volume 38(2), halaman 98--103.
+
+\bibitem[Lazaro et~al., 2014]{lazaro2014}
+Lazaro, J., Nam, Y., Gil, E., Laguna, P., and Chon, K.~H. (2014).
+\newblock Smartphone-camera-acquired pulse photoplethysmographic signal for
+deriving respiratory rate.
+\newblock In {\em Proceedings. Cardiovascular Oscillations (ESGCO), 2014 8th Conference of
+the European Study Group on}, halaman 121--122.
+
+\bibitem[Lee et~al., 2013]{Lee2013}
+Lee, J., Matsumura, K., i.~Yamakoshi, K., Rolfe, P., Tanaka, S., and Yamakoshi,
+T. (2013).
+\newblock Comparison between red, green and blue light reflection
+photoplethysmography for heart rate monitoring during motion.
+\newblock In {\em Proceedings. 2013 35th Annual International Conference of the IEEE
+Engineering in Medicine and Biology Society (EMBC)}, halaman 1724--1727.
+
+\bibitem[Leonard et~al., 2006]{leonard2006}
+Leonard, P.~A., Clifton, D., Addison, P.~S., Watson, J.~N., and Beattie, T.
+(2006).
+\newblock An automated algorithm for determining respiratory rate by
+photoplethysmogram in children.
+\newblock {\em Acta paediatrica}, volume 95(9), halaman 1124--1128.
+
+\bibitem[Lewandowska et~al., 2011]{lewandowska2011}
+Lewandowska, M., Rumi{\'n}ski, J., Kocejko, T., and Nowak, J. (2011).
+\newblock Measuring pulse rate with a webcam—a non-contact method for
+evaluating cardiac activity.
+\newblock In {\em Computer Science and Information Systems (FedCSIS), 2011
+Federated Conference on}, halaman 405--410.
+
+\bibitem[Maeda et~al., 2011]{Maeda2011}
+Maeda, Y., Sekine, M., and Tamura, T. (2011).
+\newblock The advantages of wearable green reflected photoplethysmography.
+\newblock {\em J. Med. Syst.}, volume 35(5), halaman 829--834.
+
+\bibitem[Maeda et~al., 2008]{Maeda2008}
+Maeda, Y., Sekine, M., Tamura, T., Moriya, A., Suzuki, T., and Kameyama, K.
+(2008).
+\newblock Comparison of reflected green light and infrared
+photoplethysmography.
+\newblock In {\em Proceedings. 2008 30th Annual International Conference of the IEEE
+Engineering in Medicine and Biology Society}, halaman 2270--2272.
+
+\bibitem[Matsumura et~al., 2014]{Matsu2014}
+Matsumura, K., Rolfe, P., Lee, J., and Yamakoshi, T. (2014).
+\newblock iphone 4s photoplethysmography: Which light color yields the most
+accurate heart rate and normalized pulse volume using the iphysiometer
+application in the presence of motion artifact?
+\newblock {\em PLOS ONE}, volume 9(3), halaman 1--12.
+
+\bibitem[Mendelson et~al., 2006]{Mendelson2006}
+Mendelson, Y., Duckworth, R.~J., and Comtois, G. (2006).
+\newblock A wearable reflectance pulse oximeter for remote physiological
+monitoring.
+\newblock In {\em 2006 International Conference of the IEEE Engineering in
+Medicine and Biology Society}, halaman 912--915.
+
+\bibitem[Mirmohamadsadeghi et~al., 2016]{Mirmo2016}
+Mirmohamadsadeghi, L., Fallet, S., Moser, V., Braun, F., and Vesin, J.~M.
+(2016).
+\newblock Real-time respiratory rate estimation using imaging
+photoplethysmography inter-beat intervals.
+\newblock In {\em Proceedings. 2016 Computing in Cardiology Conference (CinC)}, halaman
+861--864.
+
+\bibitem[Nam et~al., 2014]{nam2014}
+Nam, Y., Lee, J., and Chon, K.~H. (2014).
+\newblock Respiratory rate estimation from the built-in cameras of smartphones
+and tablets.
+\newblock {\em Annals of biomedical engineering}, volume 42(4), halaman 885--898.
+
+\bibitem[Nilsson et~al., 2000]{nilsson2000}
+Nilsson, L., Johansson, A., and Kalman, S. (2000).
+\newblock Monitoring of respiratory rate in postoperative care using a new
+photoplethysmographic technique.
+\newblock {\em Journal of clinical monitoring and computing}, volume 16(4), halaman 309--315.
+
+\bibitem[Penelitian, 2013]{RI2013}
+Penelitian, B. (2013).
+\newblock Riset kesehatan dasar.
+\newblock {\em Jakarta: Kementerian Kesehatan RI}.
+
+\bibitem[Poh et~al., 2010]{Poh2010}
+Poh, M.-Z., McDuff, D.~J., and Picard, R.~W. (2010).
+\newblock Non-contact, automated cardiac pulse measurements using video imaging
+and blind source separation.
+\newblock {\em Opt. Express}, volume 18(10), halaman 10762--10774.
+
+\bibitem[Poh et~al., 2011]{Poh2011}
+Poh, M.~Z., McDuff, D.~J., and Picard, R.~W. (2011).
+\newblock Advancements in noncontact, multiparameter physiological measurements
+using a webcam.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, volume 58(1), halaman 7--11.
+
+\bibitem[Renevey et~al., 2001]{Renevey2001}
+Renevey, P., Vetter, R., Krauss, J., Celka, P., and Depeursinge, Y. (2001).
+\newblock Wrist-located pulse detection using ir signals, activity and
+nonlinear artifact cancellation.
+\newblock In {\em 2001 Conference Proceedings of the 23rd Annual International
+Conference of the IEEE Engineering in Medicine and Biology Society},
+volume~3, halaman 3030--3033.
+
+\bibitem[Rhee et~al., 2001]{Rhee2001}
+Rhee, S., Yang, B.-H., and Asada, H.~H. (2001).
+\newblock Artifact-resistant power-efficient design of finger-ring
+plethysmographic sensors.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, volume 48(7), halaman 795--805.
+
+\bibitem[Rubinstein, 2014]{RubinsteinPhDThesis2014}
+Rubinstein, M. (2014).
+\newblock {\em Analysis and Visualization of Temporal Variations in Video}.
+\newblock PhD thesis, Massachusetts Institute of Technology.
+
+\bibitem[Scully et~al., 2012]{Scully2012}
+Scully, C.~G., Lee, J., Meyer, J., Gorbach, A.~M., Granquist-Fraser, D.,
+Mendelson, Y., and Chon, K.~H. (2012).
+\newblock Physiological parameter monitoring from optical recordings with a
+mobile phone.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, volume 59(2), halaman 303--306.
+
+\bibitem[Subbe et~al., 2003]{subbe2003}
+Subbe, C., Davies, R., Williams, E., Rutherford, P., and Gemmell, L. (2003).
+\newblock Effect of introducing the modified early warning score on clinical
+outcomes, cardio-pulmonary arrests and intensive care utilisation in acute
+medical admissions.
+\newblock {\em Anaesthesia}, volume 58(8), halaman 797--802.
+
+\bibitem[Sun et~al., 2012]{Sun2012}
+Sun, Y., Azorin-Peris, V., Kalawsky, R., Hu, S., Papin, C., and Greenwald,
+S.~E. (2012).
+\newblock Use of ambient light in remote photoplethysmographic systems:
+comparison between a high-performance camera and a low-cost webcam.
+\newblock {\em Journal of biomedical optics}, volume 17(3), halaman 037005.
+
+\bibitem[Sun and Thakor, 2016]{sun2016}
+Sun, Y. and Thakor, N. (2016).
+\newblock Photoplethysmography revisited: from contact to noncontact, from
+point to imaging.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, volume 63(3), halaman 463--477.
+
+\bibitem[Tamura et~al., 2014]{Tamura2014}
+Tamura, T., Maeda, Y., Sekine, M., and Yoshida, M. (2014).
+\newblock Wearable photoplethysmographic sensors—past and present.
+\newblock {\em Electronics}, volume 3(2), halaman 282--302.
+
+\bibitem[Tarrant et~al., 1997]{tarrant1997}
+Tarrant, S.~C., Ellis, R.~E., Flack, F.~C., and Selley, W.~G. (1997).
+\newblock Comparative review of techniques for recording respiratory events at
+rest and during deglutition.
+\newblock {\em Dysphagia}, volume 12(1), halaman 24--38.
+
+\bibitem[Tremper, 1989]{tremper1989}
+Tremper, K.~K. (1989).
+\newblock Pulse oximetry.
+\newblock {\em Chest}, volume 95(4), halaman 713--715.
+
+\bibitem[Ugnell and {\"O}berg, 1995]{ugnell1995}
+Ugnell, H. and {\"O}berg, P. (1995).
+\newblock The time-variable photoplethysmographic signal; dependence of the
+heart synchronous signal on wavelength and sample volume.
+\newblock {\em Medical engineering \& physics}, volume 17(8), halaman 571--578.
+
+\bibitem[Verkruysse et~al., 2008]{Verkruysse2008}
+Verkruysse, W., Svaasand, L.~O., and Nelson, J.~S. (2008).
+\newblock Remote plethysmographic imaging using ambient light.
+\newblock {\em Opt. Express}, volume 16(26), halaman 21434--21445.
+
+\bibitem[Wilkinson, Emma., 2014]{Emma}
+Wilkinson, Emma. (2014).
+\newblock Warning over plastics used in treating premature babies.
+\newblock \textit{\url{https://www.bbc.com/news/health-30034760}}, diakses
+tanggal 6 Juni 2018.
+
+\bibitem[Wu et~al., 2012]{Wu2012}
+Wu, H.-Y., Rubinstein, M., Shih, E., Guttag, J., Durand, F., and Freeman, W.~T.
+(2012).
+\newblock Eulerian video magnification for revealing subtle changes in the
+world.
+\newblock {\em ACM Trans. Graph. (Proceedings SIGGRAPH 2012)}, volume 31(4), halaman 65:1--65:8.
+
+\bibitem[Yang et~al., 1998]{Yang1998}
+Yang, B.-H., Rhee, S., and Asada, H.~H. (1998).
+\newblock A twenty-four hour tele-nursing system using a ring sensor.
+\newblock In {\em Proceedings. 1998 IEEE International Conference on Robotics
+and Automation (Cat. No.98CH36146)}, volume~1, halaman 387--392.
+
+\bibitem[Zijlstra et~al., 1991]{Zijlstra1991}
+Zijlstra, W.~G., Buursma, A., and Meeuwsen-van~der Roest, W.~P. (1991).
+\newblock Absorption spectra of human fetal and adult oxyhemoglobin,
+de-oxyhemoglobin, carboxyhemoglobin, and methemoglobin.
+\newblock {\em Clinical Chemistry}, volume 37(9), halaman 1633--1638.
+
+\end{thebibliography}

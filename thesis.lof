@@ -1,0 +1,50 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Data Penderita Penyakit Jantung Berdasarkan Rentan Usia Tahun 2007\relax }}{1}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Proses monitor detak jantung dan pernapasan pada bayi (a) dan orang dewasa (b)}}{2}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ilustrasi penetrasi cahaya dalam kulit.\relax }}{8}{figure.caption.8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces (a)12 Lead ECG. (b) Gelombang dan kompleks pada sinyal ECG.\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Variasi dalam redaman cahaya oleh jaringan tubuh.\relax }}{10}{figure.caption.10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Komponen pulsatil (AC) dari sinyal PPG dan sesuai dengan ECG.\relax }}{11}{figure.caption.11}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Penempatan LED dan PD untuk mode transmisi dan reflektansi PPG\relax }}{11}{figure.caption.12}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Amplitudo relatif PPG terhadap panjang gelombang PPG berdasarkan penelitian \citet {Crowe1992}\relax }}{13}{figure.caption.14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Aplikasi Metode ICA untuk memperoleh gelombang PPG\relax }}{14}{figure.caption.16}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Kerangka Kerja Metode EVM\relax }}{16}{figure.caption.17}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Visualisasi frekuensi temporal yang dominan\relax }}{18}{figure.caption.18}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Pemfilteran temporal untuk memperkirakan translasi spasial}}{20}{figure.caption.19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagram Alir Pengerjaan Proyek Akhir\relax }}{23}{figure.caption.20}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Perancangan Sistem Kerja\relax }}{24}{figure.caption.21}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Blok diagram kerja sistem monitoring\relax }}{25}{figure.caption.22}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Rancangan \textit {Graphical User Interface} (GUI)\relax }}{27}{figure.caption.25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Data cuplikan video tangan kiri dengan ROI.\relax }}{30}{figure.caption.27}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Data cuplikan video tangan kanan dengan ROI.\relax }}{31}{figure.caption.28}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Data cuplikan video leher kiri dengan ROI.\relax }}{31}{figure.caption.29}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Data cuplikan video leher kanan dengan ROI.\relax }}{32}{figure.caption.30}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Data cuplikan video wajah subyek1 dengan ROI.\relax }}{32}{figure.caption.31}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Data cuplikan video wajah subyek2 dengan ROI.\relax }}{33}{figure.caption.32}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Data cuplikan video bagian tubuh atas dengan ROI.\relax }}{33}{figure.caption.33}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sekuen gambar data Tangan1 dengan filter \textit {spatial-laplacian pyramid-temporal-ideal}.\relax }}{35}{figure.caption.34}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sekuen gambar data Tangan2 dengan filter \textit {spatial-laplacian pyramid-temporal-infinite impulse response}.\relax }}{35}{figure.caption.35}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sekuen gambar data Leher1 dengan filter \textit {spatial-laplacian pyramid-temporal-infinite impulse response}.\relax }}{36}{figure.caption.36}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Sekuen gambar data Leher2 dengan filter \textit {spatial-laplacian pyramid-temporal-infinite impulse response}.\relax }}{37}{figure.caption.37}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Sekuen gambar data Wajah1 dengan filter \textit {spatial-gaussian pyramid-temporal-ideal}.\relax }}{38}{figure.caption.38}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Sekuen gambar data Wajah1 dengan filter \textit {spatial-gaussian pyramid-temporal-ideal}.\relax }}{38}{figure.caption.39}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Sekuen gambar data Badan dengan filter \textit {spatial-gaussian pyramid-temporal-ideal}.\relax }}{39}{figure.caption.40}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Grafik kanal warna merah Wajah1 sebelum proses magnifikasi.\relax }}{41}{figure.caption.41}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Grafik kanal warna hijau Wajah1 sebelum proses magnifikasi.\relax }}{41}{figure.caption.42}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Grafik kanal warna biru Wajah1 sebelum proses magnifikasi.\relax }}{42}{figure.caption.43}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Grafik kanal warna merah Wajah1 setelah proses magnifikasi.\relax }}{42}{figure.caption.44}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Grafik kanal warna hijau Wajah1 setelah proses magnifikasi.\relax }}{43}{figure.caption.45}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Grafik kanal warna biru Wajah1 setelah proses magnifikasi.\relax }}{43}{figure.caption.46}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Grafik kanal warna merah Wajah2 sebelum proses magnifikasi.\relax }}{44}{figure.caption.47}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Grafik kanal warna hijau Wajah2 sebelum proses magnifikasi.\relax }}{44}{figure.caption.48}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Grafik kanal warna biru Wajah2 sebelum proses magnifikasi.\relax }}{45}{figure.caption.49}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Grafik kanal warna merah Wajah2 setelah proses magnifikasi.\relax }}{45}{figure.caption.50}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Grafik kanal warna hijau Wajah2 setelah proses magnifikasi.\relax }}{46}{figure.caption.51}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Grafik kanal warna biru Wajah2 setelah proses magnifikasi.\relax }}{46}{figure.caption.52}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Data hasil detak jantung (HR) yang diperoleh\relax }}{47}{figure.caption.53}
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 

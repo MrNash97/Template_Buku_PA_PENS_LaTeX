@@ -1,0 +1,108 @@
+\documentclass[a5paper,10pt,times,twoside,custommargin,numbered,print,index,fleqn]{Classes/PhDThesisPSnPDF}
+
+%\usepackage[notlof]{tocbibind}
+\usepackage{amsmath,amssymb,amsmath,amsthm}
+\usepackage{afterpage}
+\setlength{\mathindent}{10mm}
+\usepackage{ragged2e}
+\setlength{\parindent}{10mm}
+%\setlength{\itemindent}{10mm}
+
+\usepackage{pdfpages}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{xpatch}
+
+%\makeatletter
+
+
+
+\input{Preamble/preamble}
+\input{thesis-info}
+
+\ifdefineAbstract
+ \pagestyle{empty}
+ \includeonly{Declaration/declaration, Abstract/abstract}
+\fi
+
+\begin{document}
+\justifying
+\includepdf{Sampul/sampul-warna-new}
+%\afterpage{\blankpage}
+\frontmatter
+%\setcounter{blankpages}{0}\pagenumbering{romannoblank}
+
+%\afterpage{%
+%	\newgeometry{left=25mm,right=20mm,top=25mm,bottom=20mm}
+%	% material for this page
+%	\clearpage
+%	\restoregeometry
+%}
+
+
+\begingroup
+
+%\let\cleardoublepage\clearpage
+%\afterpage{\blankpage}
+\includepdf{Sampul/sampul-putih-new}
+%\afterpage{\blankpage}
+%\newgeometry{left=25mm,right=20mm,top=25mm,bottom=20mm}
+%\begin{changemargin}{5mm}{0mm}
+%\includepdf{Acknowledgement/pengesahansasya}
+%\include{Dedication/kata_pengantar.tex}
+%\includepdf[pages=1,addtotoc={
+    % 1,chapter,1,Lembar Pengesahan,p1 }]{Acknowledgement/halpengesahan}
+%\include{Acknowledgement/pengesahan}
+%\include{Declaration/deklarasi}
+%\afterpage{\blankpage}
+%\include{Dedication/kata_pengantar}
+%\afterpage{\blankpage}
+\include{Abstract/abstract}
+%\afterpage{\blankpage}
+\include{Abstract_en/abstract}
+%\afterpage{\blankpage}
+%\begin{changemargin}{5mm}{-5mm}
+\tableofcontents
+%\end{changemargin}
+%\afterpage{\blankpage}
+\listoffigures
+%\afterpage{\blankpage}
+\listoftables
+%\afterpage{\blankpage}
+%\restoregeometry
+%\end{changemargin}
+\endgroup
+
+% ---------------------------
+
+\mainmatter
+\include{Chapter1/chapter1}
+%\addtocontents{toc}{\protect\afterpage\newpage\null\protect\thispagestyle{empty}\addtocounter{page}{-1}\newpage}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3}
+\include{Chapter4/chapter4}
+\include{Chapter5/chapter5}
+
+% ---------------------------
+
+\begin{spacing}{0.9}
+
+	\bibliographystyle{apalike}
+	\cleardoublepage
+	\bibliography{References/references}
+
+\end{spacing}
+
+% ---------------------------
+
+\begin{appendices} % Uncomment jika ingin ada appendix.
+
+	%\include{Appendix1/appendix1.tex}
+	%\include{Appendix2/appendix2.tex}
+
+\end{appendices}
+
+\printthesisindex % If index is present
+
+\end{document}
+
+
