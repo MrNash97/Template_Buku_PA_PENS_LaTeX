@@ -1,7 +1,7 @@
 # Template_Buku_PA_PENS_LaTeX (Unofficial)
 Template penulisan buku PA PENS dengan menggunakan LaTeX.
 
-## Modified version from [tegarimansyah](https://github.com/tegarimansyah/buku_pa_pens_latex)
+## Modified version from [tegarimansyah](https://github.com/tegarimansyah/buku_pa_pens_latex) & saysa
 
 Format penulisan buku Tugas Akhir (TA) mahasiswa Politeknik Elektronika Negeri Surabaya (PENS). Tested on Windows 10 using [TeXstudio](https://www.texstudio.org/) and [MiKTeX](https://miktex.org/).
 
