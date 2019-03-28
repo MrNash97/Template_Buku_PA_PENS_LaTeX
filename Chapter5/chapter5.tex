@@ -1,0 +1,34 @@
+%!TEX root = ../thesis.tex
+%*******************************************************************************
+%****************************** Third Chapter **********************************
+%*******************************************************************************
+\chapter{PENUTUP}
+
+% **************************** Define Graphics Path **************************
+\ifpdf
+    \graphicspath{{Chapter5/Figs/Raster/}{Chapter5/Figs/PDF/}{Chapter5/Figs/}}
+\else
+    \graphicspath{{Chapter5/Figs/Vector/}{Chapter5/Figs/}}
+\fi
+
+Dalam pengerjaan proyek akhir tahap pertama ini telah dilakukan pengujian penentuan ROI, penguatan video dengan EVM, ekstraksi sinyal HR pada bagian wajah dan melakukan perhitungan nilai HR dari hasil ekstraksi sinyal.~Maka dari itu, pada BAB 5 ini akan diberikan penjelasan mengenai kesimpulan sementara dari apa yang telah dikerjakan.
+
+\section{Kesimpulan Sementara}
+Dari hasil uji coba pada penelitian ini dapat ditarik beberapa kesimpulan:
+\begin{enumerate}
+\item Penentuan ROI yang digunakan akan mempengaruhi hasil yang didapatkan dalam proses ekstraksi sinyal yang dilakukan.~Semakin presisi ROI yang digunakan, maka semakin akurat hasil yang didapatkan.
+\item Proses magnifikasi gerak \textit{(Motion Amplification)} berhasil untuk menguatkan informasi pergerakan nadi pada daerah leher, sedangkan pada daerah pergelangan tangan hasil yang didapatkan belum bisa menunjukkan aktifitas nadi dengan baik.
+\item Proses magnifikasi warna \textit{(Color Amplification)} berhasil untuk menguatkan informasi warna, terutama pada daerah wajah.
+\item Hasil ekstraksi sinyal HR dapat dilakukan dengan menggunakan nilai rata-rata piksel \textit{(pixel-means)} pada setiap kanal warna RGB dari video hasil magnifikasi warna pada daerah wajah.
+\item Penentuan nilai HR dari sinyal hasil ekstraksi dengan menggunakan deteksi puncak \textit{(Peak Detector)} dengan nilai error rata-rata sebesar \(\pm\) 2 bpm jika dibandingkan dengan pulse oximeter dan \(\pm\) 2.9 bpm jika dibandingkan dengan Mi band berdasarkan hasil pengujian dari sampel sebanyak 10 orang.~Hasil paling baik didapatkan dengan nilai error 0 bpm, sedangkan nilai error tertinggi mencapai 9 bpm.
+\end{enumerate}
+
+\section{Pekerjaan Selanjutnya}
+Pekerjaan selanjutnya yang dilakukan untuk menyelesaikan proyek akhir ini adalah:
+\begin{enumerate}
+    \item Ekstraksi Sinyal dengan menggunakan domain spatial menggunakan metode \textit{Discrete Fourier Transform} (DFT).
+    \item Melakukan Pengujian dengan menggunakan kamera infrared.
+    \item Integrasi sistem secara keseluruhan.
+    \item Penyempurnaan desain GUI.
+    \item Integrasi sistem pada sistem benam \textit{(Embedded System)}.
+\end{enumerate}
